@@ -1,0 +1,11 @@
+﻿  ex4_1.c
+  InsertLinkedList.c
+  코드를 생성하고 있습니다...
+C:\eunrim\Data_structure\ch04_1\InsertLinkedList.c(7,21): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\eunrim\Data_structure\ch04_1\InsertLinkedList.c(7,6): warning C4312: '형식 캐스트': 'int'에서 더 큰 'linkedList_h *'(으)로의 변환입니다.
+C:\eunrim\Data_structure\ch04_1\InsertLinkedList.c(18,3): warning C4013: 'free'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\eunrim\Data_structure\ch04_1\InsertLinkedList.c(26,2): warning C4013: 'printf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\eunrim\Data_structure\ch04_1\InsertLinkedList.c(39,12): warning C4312: '형식 캐스트': 'int'에서 더 큰 'listNode *'(으)로의 변환입니다.
+C:\eunrim\Data_structure\ch04_1\InsertLinkedList.c(48,12): warning C4312: '형식 캐스트': 'int'에서 더 큰 'listNode *'(으)로의 변환입니다.
+C:\eunrim\Data_structure\ch04_1\InsertLinkedList.c(68,12): warning C4312: '형식 캐스트': 'int'에서 더 큰 'listNode *'(으)로의 변환입니다.
+  ch04_1.vcxproj -> C:\eunrim\Data_structure\x64\Debug\ch04_1.exe
